@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "38127647872",
+    "firebase_url": "https://storeadmin-a79c5.firebaseio.com",
+    "project_id": "storeadmin-a79c5",
+    "storage_bucket": "storeadmin-a79c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38127647872:android:1fcbd8109d3b26dde5ba65",
+        "android_client_info": {
+          "package_name": "com.pinniboina.storeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38127647872-r63ffk20r7820r05q47ipj9ch4om0mgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSapwPZ8Nvs6Ka-Dn3hs6T6kAbmVFsraY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38127647872-r63ffk20r7820r05q47ipj9ch4om0mgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
